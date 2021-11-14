@@ -1,0 +1,7 @@
+data 1
+username = admin
+passwprd = admin
+
+data 2 
+username = user
+password = user
